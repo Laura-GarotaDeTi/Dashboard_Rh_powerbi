@@ -19,4 +19,4 @@ Durante o desenvolvimento, passamos por algumas etapas importantes:
 🔹 Criação do layout no figma e importação para o Power BI como template.
 
 
-![Dashboard](Imagens/dash de rh.png)
+![Dashboard](Imagens/Dash_de_rh.png)
